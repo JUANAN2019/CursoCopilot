@@ -38,6 +38,42 @@ activities = {
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
+    },
+    "Soccer Team": {
+        "description": "Team practices, drills, and weekend matches",
+        "schedule": "Tuesdays and Thursdays, 4:00 PM - 5:30 PM",
+        "max_participants": 18,
+        "participants": []
+    },
+    "Swimming Club": {
+        "description": "Lap swimming, technique coaching, and swim meets",
+        "schedule": "Wednesdays and Fridays, 3:30 PM - 5:00 PM",
+        "max_participants": 16,
+        "participants": []
+    },
+    "Art Studio": {
+        "description": "Drawing, painting, and mixed-media projects",
+        "schedule": "Mondays and Wednesdays, 3:00 PM - 4:30 PM",
+        "max_participants": 15,
+        "participants": []
+    },
+    "Drama Workshop": {
+        "description": "Acting games, scene study, and performance rehearsals",
+        "schedule": "Thursdays, 4:00 PM - 5:30 PM",
+        "max_participants": 20,
+        "participants": []
+    },
+    "Science Club": {
+        "description": "Hands-on experiments and science fair preparation",
+        "schedule": "Tuesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 20,
+        "participants": []
+    },
+    "Debate Team": {
+        "description": "Research, public speaking, and competitive debates",
+        "schedule": "Fridays, 3:30 PM - 5:00 PM",
+        "max_participants": 14,
+        "participants": []
     }
 }
 
